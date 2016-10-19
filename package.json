@@ -1,7 +1,7 @@
 
 {
   "name": "ui-utils",
-  "version": "*",
+  "version": "3.0.0",
   "author": "Diana Rosca",
   "repository": {
     "type": "git",
